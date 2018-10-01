@@ -1,0 +1,29 @@
+g:\documents\visual studio 2013\Projects\CoachingManagement\CoachingManagement\bin\Debug\CoachingManagement.exe.config
+g:\documents\visual studio 2013\Projects\CoachingManagement\CoachingManagement\bin\Debug\CoachingManagement.exe
+g:\documents\visual studio 2013\Projects\CoachingManagement\CoachingManagement\bin\Debug\CoachingManagement.pdb
+g:\documents\visual studio 2013\Projects\CoachingManagement\CoachingManagement\obj\Debug\CoachingManagement.csprojResolveAssemblyReference.cache
+g:\documents\visual studio 2013\Projects\CoachingManagement\CoachingManagement\obj\Debug\CoachingManagement.SplashScreenForm.resources
+g:\documents\visual studio 2013\Projects\CoachingManagement\CoachingManagement\obj\Debug\CoachingManagement.Properties.Resources.resources
+g:\documents\visual studio 2013\Projects\CoachingManagement\CoachingManagement\obj\Debug\CoachingManagement.csproj.GenerateResource.Cache
+g:\documents\visual studio 2013\Projects\CoachingManagement\CoachingManagement\obj\Debug\CoachingManagement.exe
+g:\documents\visual studio 2013\Projects\CoachingManagement\CoachingManagement\obj\Debug\CoachingManagement.pdb
+g:\Documents\Visual Studio 2013\Projects\CoachingManagement\CoachingManagement\obj\Debug\CoachingManagement.MainForm.resources
+G:\Documents\Visual Studio 2013\Projects\CoachingManagement\CoachingManagement\bin\Debug\Excel.4.5.dll
+G:\Documents\Visual Studio 2013\Projects\CoachingManagement\CoachingManagement\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\Documents\Visual Studio 2013\Projects\CoachingManagement\CoachingManagement\bin\Debug\Excel.4.5.pdb
+G:\Documents\Visual Studio 2013\Projects\CoachingManagement\CoachingManagement\obj\Debug\CoachingManagement.ResultPrintPreview.resources
+G:\Documents\Visual Studio 2013\Projects\CoachingManagement\CoachingManagement\obj\Debug\RdlCompile.cache
+G:\Documents\Visual Studio 2013\Projects\CoachingManagement\CoachingManagement\obj\Debug\RdlCompile.compiled
+G:\Documents\Visual Studio 2013\Projects\CoachingManagement\CoachingManagement\obj\Debug\CoachingManagement.csproj.ResolveComReference.cache
+G:\Documents\Visual Studio 2013\Projects\CoachingManagement\CoachingManagement\obj\Debug\CoachingManagement.MoneyReceiptPrintPreview.resources
+F:\My projects\3.2\CoachingManagement\CoachingManagement\bin\Debug\CoachingManagement.exe.config
+F:\My projects\3.2\CoachingManagement\CoachingManagement\obj\Debug\CoachingManagement.csproj.ResolveComReference.cache
+F:\My projects\3.2\CoachingManagement\CoachingManagement\obj\Debug\CoachingManagement.exe
+F:\My projects\3.2\CoachingManagement\CoachingManagement\obj\Debug\CoachingManagement.pdb
+F:\My projects\3.2\CoachingManagement\CoachingManagement\obj\Debug\CoachingManagement.csprojResolveAssemblyReference.cache
+F:\My projects\3.2\CoachingManagement\CoachingManagement\obj\Debug\CoachingManagement.MainForm.resources
+F:\My projects\3.2\CoachingManagement\CoachingManagement\obj\Debug\CoachingManagement.SplashScreenForm.resources
+F:\My projects\3.2\CoachingManagement\CoachingManagement\obj\Debug\CoachingManagement.MoneyReceiptPrintPreview.resources
+F:\My projects\3.2\CoachingManagement\CoachingManagement\obj\Debug\CoachingManagement.Properties.Resources.resources
+F:\My projects\3.2\CoachingManagement\CoachingManagement\obj\Debug\CoachingManagement.ResultPrintPreview.resources
+F:\My projects\3.2\CoachingManagement\CoachingManagement\obj\Debug\CoachingManagement.csproj.GenerateResource.Cache
